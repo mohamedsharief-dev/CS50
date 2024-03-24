@@ -9,3 +9,7 @@ def index(request):
 
 def moe(request):
     return HttpResponse("Hello Moe :)")
+
+
+def tayseer(request):
+    return HttpResponse("Hello Tayseer !")
