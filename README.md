@@ -29,7 +29,7 @@ Discover a range of JavaScript projects, covering both frontend and backend deve
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your_username/harvardx-web-programming.git
+    git clone https://github.com/mohamedsharief-dev/harvardx-web-programming.git
     ```
 
 2. Navigate to the desired project directory and follow the instructions provided in the respective README.md file to set up and run the application.
