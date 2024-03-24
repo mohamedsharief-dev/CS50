@@ -12,16 +12,16 @@ This repository contains a collection of Python and JavaScript applications deve
 
 Explore a variety of Python applications, each demonstrating different concepts and techniques in web programming.
 
-- **[App 1](python_apps/app1/)**: Description of App 1.
-- **[App 2](python_apps/app2/)**: Description of App 2.
+- **[App 1]
+- **[App 2]
 - ...
 
 ### JavaScript Projects
 
 Discover a range of JavaScript projects, covering both frontend and backend development aspects.
 
-- **[Project 1](javascript_projects/project1/)**: Description of Project 1.
-- **[Project 2](javascript_projects/project2/)**: Description of Project 2.
+- **[Project 1]
+- **[Project 2]
 - ...
 
 ## Getting Started
@@ -42,9 +42,5 @@ Found a bug? Have a suggestion for improvement? Contributions are welcome! Fork 
 
 Questions or feedback? Feel free to reach out:
 
-- Email: [your_email@example.com](mailto:your_email@example.com)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- Email: [hello@moe-sharief.dev](mailto:your_email@example.com)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
