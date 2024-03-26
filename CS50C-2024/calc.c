@@ -4,10 +4,10 @@
 
 int main(void)
 {
-    float x = get_int("What's x ?; ");
-    float y = get_int("What's y ?; ");
+    int x = get_int("What's x ?; ");
+    int y = get_int("What's y ?; ");
 
-    printf("%f\n", x / y);
+    printf("%f\n", (float) x / (float)y);
 
 }
 
